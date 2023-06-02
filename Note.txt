@@ -1,0 +1,6 @@
+REMOTE
+
+1. copy https di github
+2. buka git bash
+3. git clone <https>
+4. masuk ke directory (cd)
